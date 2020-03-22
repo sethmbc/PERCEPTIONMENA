@@ -1,0 +1,141 @@
+sentence,sentiment,polarity,subjectivity,country
+"
+","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+in Africa (light blue),"Sentiment(polarity=0.2, subjectivity=0.39999999999999997)",0.2,0.4,Tunisia
+"Tunisia[a], officially the Republic of Tunisia[b][18], is a country in the Maghreb region of North Africa, covering 163,610 square kilometres (63,170 square miles)","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Geographically, Tunisia contains the eastern end of the Atlas Mountains, and the northern reaches of the Sahara desert","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Tunisia is a unitary semi-presidential representative democratic republic,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In ancient times, Tunisia was primarily inhabited by Berbers","Sentiment(polarity=0.4, subjectivity=0.5)",0.4,0.5,Tunisia
+The word Tunisia is derived from Tunis; a central urban hub and the capital of modern-day Tunisia,"Sentiment(polarity=0.0, subjectivity=0.125)",0,0.125,Tunisia
+"The French derivative Tunisie was adopted in some European languages with slight modifications, introducing a distinctive name to designate the country","Sentiment(polarity=-0.05555555555555555, subjectivity=0.05555555555555555)",-0.055555556,0.055555556,Tunisia
+"Before Tunisia, the territory's name was Ifriqiya or Africa, which gave the present-day name of the continent Africa","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Farming methods reached the Nile Valley from the Fertile Crescent region about 5000 BC, and spread to the Maghreb by about 4000 BC","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"It was believed in ancient times that Africa was originally populated by Gaetulians and Libyans, both nomadic peoples","Sentiment(polarity=0.375, subjectivity=0.75)",0.375,0.75,Tunisia
+The Numidians and Moors belonged to the race from which the Berbers are descended,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"At the beginning of recorded history, Tunisia was inhabited by Berber tribes","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"After the series of wars with Greek city-states of Sicily in the 5th century BC, Carthage rose to power and eventually became the dominant civilization in the Western Mediterranean","Sentiment(polarity=0.19999999999999998, subjectivity=0.31666666666666665)",0.2,0.316666667,Tunisia
+"A Carthaginian invasion of Italy led by Hannibal during the Second Punic War, one of a series of wars with Rome, nearly crippled the rise of Roman power","Sentiment(polarity=0.05, subjectivity=0.2)",0.05,0.2,Tunisia
+"Following the Battle of Carthage which began in 149 BC during the Third Punic War, Carthage was conquered by Rome in 146 BC","Sentiment(polarity=0.0, subjectivity=0.05)",0,0.05,Tunisia
+"During the Roman period, the area of what is now Tunisia enjoyed a huge development","Sentiment(polarity=0.45000000000000007, subjectivity=0.8)",0.45,0.8,Tunisia
+"By the 2nd century, olive oil rivaled cereals as an export item","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"There was even a huge production of mosaics and ceramics, exported mainly to Italy, in the central area of El Djem (where there was the second biggest amphitheater in the Roman Empire)","Sentiment(polarity=0.1416666666666667, subjectivity=0.37083333333333335)",0.141666667,0.370833333,Tunisia
+Berber bishop Donatus Magnus was the founder of a Christian group known as the Donatists,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Sometime between the second half of the 7th century and the early part of the 8th century, Arab Muslim conquest occurred in the region","Sentiment(polarity=-0.022222222222222216, subjectivity=0.15555555555555556)",-0.022222222,0.155555556,Tunisia
+"Tunis was taken in 695, re-taken by the Byzantine Eastern Romans in 697, but lost finally in 698","Sentiment(polarity=0.0, subjectivity=1.0)",0,1,Tunisia
+"The Arab governors of Tunis founded the Aghlabid dynasty, which ruled Tunisia, Tripolitania and eastern Algeria from 800 to 909","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"After conquering Cairo, the Fatimids abandoned Tunisia and parts of Eastern Algeria to the local Zirids (972–1148)","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The depredation of the Tunisian campaigns by the Banu Hilal, a warlike Arab Bedouin tribe encouraged by the Fatimids of Egypt to seize Northwest Africa, sent the region's rural and urban economic life into further decline","Sentiment(polarity=0.05, subjectivity=0.175)",0.05,0.175,Tunisia
+"The main Tunisian cities were conquered by the Normans of Sicily under the Kingdom of Africa in the 12th century, but following the conquest of Tunisia in 1159–1160 by the Almohads the Normans were evacuated to Sicily","Sentiment(polarity=0.08333333333333333, subjectivity=0.21666666666666667)",0.083333333,0.216666667,Tunisia
+"The greatest threat to Almohad rule in Tunisia was the Banu Ghaniya, relatives of the Almoravids, who from their base in Mallorca tried to restore Almoravid rule over the Maghreb","Sentiment(polarity=0.09999999999999998, subjectivity=1.0)",0.1,1,Tunisia
+"In the last years of the Hafsid dynasty, Spain seized many of the coastal cities, but these were recovered by the Ottoman Empire","Sentiment(polarity=0.25, subjectivity=0.2833333333333333)",0.25,0.283333333,Tunisia
+"The first Ottoman conquest of Tunis took place in 1534 under the command of Barbarossa Hayreddin Pasha, the younger brother of Oruç Reis, who was the Kapudan Pasha of the Ottoman Fleet during the reign of Suleiman the Magnificent","Sentiment(polarity=0.4166666666666667, subjectivity=0.4444444444444444)",0.416666667,0.444444444,Tunisia
+"Initially under Turkish rule from Algiers, soon the Ottoman Porte appointed directly for Tunis a governor called the Pasha supported by janissary forces","Sentiment(polarity=0.05, subjectivity=0.2)",0.05,0.2,Tunisia
+"Attacks on European shipping were made by corsairs, primarily from Algiers, but also from Tunis and Tripoli, yet after a long period of declining raids the growing power of the European states finally forced its termination","Sentiment(polarity=0.009999999999999998, subjectivity=0.22000000000000003)",0.01,0.22,Tunisia
+"The plague epidemics ravaged Tunisia in 1784–1785, 1796–1797 and 1818–1820","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In the 19th century, the rulers of Tunisia became aware of the ongoing efforts at political and social reform in the Ottoman capital","Sentiment(polarity=0.09444444444444444, subjectivity=0.13888888888888887)",0.094444444,0.138888889,Tunisia
+"In 1869, Tunisia declared itself bankrupt and an international financial commission took control over its economy","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"During World War II, French Tunisia was ruled by the collaborationist Vichy government located in Metropolitan France","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"From November 1942 until May 1943, Vichy Tunisia was occupied by Nazi Germany","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Tunisia achieved independence from France on 20 March 1956 with Habib Bourguiba as Prime Minister,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In November 1987, doctors[67] declared Bourguiba unfit to rule and, in a bloodless coup d'état, Prime Minister Zine El Abidine Ben Ali assumed the presidency[65] in accordance with Article 57 of the Tunisian constitution","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Ben Ali and his family were accused of corruption[70] and plundering the country's money,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Independent human rights groups, such as Amnesty International, Freedom House, and Protection International, documented that basic human and political rights were not respected","Sentiment(polarity=0.0, subjectivity=0.13125)",0,0.13125,Tunisia
+"The Tunisian Revolution[80][81] was an intensive campaign of civil resistance that was precipitated by high unemployment, food inflation, corruption,[82] a lack of freedom of speech and other political freedoms[83] and poor living conditions","Sentiment(polarity=-0.09125, subjectivity=0.40374999999999994)",-0.09125,0.40375,Tunisia
+"The catalyst for mass demonstrations was the death of Mohamed Bouazizi, a 26-year-old Tunisian street vendor, who set himself afire on 17 December 2010 in protest at the confiscation of his wares and the humiliation inflicted on him by a municipal official named Faida Hamdy","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Protests continued for banning of the ruling party and the eviction of all its members from the transitional government formed by Mohammed Ghannouchi,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"On 3 March 2011, the interim president announced that elections to a Constituent Assembly would be held on 24 July 2011","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In March 2012, Ennahda declared it will not support making sharia the main source of legislation in the new constitution, maintaining the secular nature of the state","Sentiment(polarity=0.1515151515151515, subjectivity=0.3939393939393939)",0.151515152,0.393939394,Tunisia
+"In 2014, President Moncef Marzouki established Tunisia's Truth and Dignity Commission, as a key part of creating a national reconciliation","Sentiment(polarity=0.0, subjectivity=1.0)",0,1,Tunisia
+"Tunisia was hit by two terror attacks on foreign tourists in 2015, first killing 22 people at the Bardo National Museum, and later killing 38 people at the Sousse beachfront","Sentiment(polarity=0.041666666666666664, subjectivity=0.15277777777777776)",0.041666667,0.152777778,Tunisia
+"The Tunisian National Dialogue Quartet won the 2015 Nobel Peace Prize for its work in building a peaceful, pluralistic political order in Tunisia","Sentiment(polarity=0.125, subjectivity=0.3)",0.125,0.3,Tunisia
+"Tunisia is situated on the Mediterranean coast of Northwest Africa, midway between the Atlantic Ocean and the Nile Delta","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Though it is relatively small in size, Tunisia has great environmental diversity due to its north–south extent","Sentiment(polarity=0.1416666666666667, subjectivity=0.5083333333333333)",0.141666667,0.508333333,Tunisia
+"The Sahel, a broadening coastal plain along Tunisia's eastern Mediterranean coast, is among the world's premier areas of olive cultivation","Sentiment(polarity=-0.21428571428571427, subjectivity=0.35714285714285715)",-0.214285714,0.357142857,Tunisia
+"Tunisia has a coastline 1,148 kilometres (713 mi) long","Sentiment(polarity=-0.05, subjectivity=0.4)",-0.05,0.4,Tunisia
+"Tunisia's climate is Mediterranean in the north, with mild rainy winters and hot, dry summers","Sentiment(polarity=0.1722222222222222, subjectivity=0.65)",0.172222222,0.65,Tunisia
+"Tunisia is a representative democracy and a republic with a president serving as head of state, a prime minister as head of government, a unicameral parliament, and a civil law court system","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+The number of legalized political parties in Tunisia has grown considerably since the revolution,"Sentiment(polarity=0.05, subjectivity=0.275)",0.05,0.275,Tunisia
+"Rare for the Arab world, women held more than 20% of seats in the country's pre-revolution bicameral parliament","Sentiment(polarity=0.4, subjectivity=0.7)",0.4,0.7,Tunisia
+"Tunisia is included in the European Union's European Neighbourhood Policy (ENP), which aims at bringing the EU and its neighbours closer","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The Tunisian legal system is heavily influenced by French civil law, while the Law of Personal Status is based on Islamic law","Sentiment(polarity=0.0, subjectivity=0.25)",0,0.25,Tunisia
+"A Code of Personal Status was adopted shortly after independence in 1956, which, among other things, gave women full legal status (allowing them to run and own businesses, have bank accounts, and seek passports under their own authority)","Sentiment(polarity=0.23214285714285715, subjectivity=0.5321428571428571)",0.232142857,0.532142857,Tunisia
+"After the revolution, a number of Salafist groups emerged and in some occasions have violently repressed artistic expression that is viewed to be hostile to Islam","Sentiment(polarity=-0.23333333333333336, subjectivity=1.0)",-0.233333333,1,Tunisia
+"Since the revolution, some non-governmental organizations have reconstituted themselves and hundreds of new ones have emerged","Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",0.136363636,0.454545455,Tunisia
+Homosexuality is illegal in Tunisia and can be punished by up to three years in prison,"Sentiment(polarity=-0.5, subjectivity=0.5)",-0.5,0.5,Tunisia
+"The Tunisian regime has been criticised[by whom?] for its policy on recreational drug use, for instance automatic 1-year prison sentences for consuming cannabis","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In 2017, Tunisia became the first Arab country to outlaw domestic violence against women, which was previously not a crime","Sentiment(polarity=0.1111111111111111, subjectivity=0.19999999999999998)",0.111111111,0.2,Tunisia
+"As of 2008[update], Tunisia had an army of 27,000 personnel equipped with 84 main battle tanks and 48 light tanks","Sentiment(polarity=0.2833333333333333, subjectivity=0.5166666666666666)",0.283333333,0.516666667,Tunisia
+"The military has historically played a professional, apolitical role in defending the country from external threats","Sentiment(polarity=0.0, subjectivity=0.07500000000000001)",0,0.075,Tunisia
+"Tunisia is subdivided into 24 governorates (Wilaya), which are further divided into 264 ""delegations"" or ""districts"" (mutamadiyat), and further subdivided into municipalities (baladiyats)[121] and sectors (imadats)","Sentiment(polarity=0.0, subjectivity=0.5)",0,0.5,Tunisia
+"Tunisia is an export-oriented country in the process of liberalizing and privatizing an economy that, while averaging 5% GDP growth since the early 1990s, has suffered from corruption benefiting politically connected elites","Sentiment(polarity=0.05, subjectivity=0.2)",0.05,0.2,Tunisia
+The agricultural sector accounts for 11,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Tunisia was in 2009 ranked the most competitive economy in Africa and the 40th in the world by the World Economic Forum,"Sentiment(polarity=0.35, subjectivity=0.35)",0.35,0.35,Tunisia
+"Tourism accounted for 7% of GDP and 370,000 jobs in 2009","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The European Union remains Tunisia's first trading partner, currently accounting for 72","Sentiment(polarity=0.08333333333333333, subjectivity=0.24444444444444446)",0.083333333,0.244444444,Tunisia
+"Tunis Sports City is an entire sports city currently being constructed in Tunis, Tunisia","Sentiment(polarity=0.0, subjectivity=0.5125)",0,0.5125,Tunisia
+Tunisia Economic City is a city being constructed near Tunis in Enfidha,"Sentiment(polarity=0.15000000000000002, subjectivity=0.30000000000000004)",0.15,0.3,Tunisia
+"On 29 and 30 November 2016, Tunisia held an investment conference Tunisia2020 to attract $30 billion in investment projects","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Days before Tunisia's 2019 parliamentary elections, the nation finds itself struggling with a sluggish economy","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Among Tunisia's tourist attractions are its cosmopolitan capital city of Tunis, the ancient ruins of Carthage, the Muslim and Jewish quarters of Jerba, and coastal resorts outside of Monastir","Sentiment(polarity=-0.0375, subjectivity=0.08750000000000001)",-0.0375,0.0875,Tunisia
+"Sources of electricity production in Tunisia[137]
+","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The majority of the electricity used in Tunisia is produced locally, by state-owned company STEG (Société Tunisienne de l'Electricité et du Gaz)","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Oil production of Tunisia is about 97,600 barrels per day (15,520 m3/d)","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Oil production began in 1966 in Tunisia,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Tunisia had plans for two nuclear power stations, to be operational by 2020","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"According to the Tunisian Solar Plan (which is Tunisia's Renewable Energy Strategy not limited to solar, contrary to what its title may suggest, proposed by the National Agency for Energy Conservation), Tunisia's objective is to reach a share of 30% of renewable energies in the electricity mix by 2030, most of which should be accounted for by wind power and photovoltaics","Sentiment(polarity=0.17857142857142858, subjectivity=0.24761904761904763)",0.178571429,0.247619048,Tunisia
+"The country maintains 19,232 kilometres (11,950 mi) of roads,[8] with three highways: the A1 from Tunis to Sfax (works ongoing for Sfax-Libya), A3 Tunis-Beja (works ongoing Beja – Boussalem, studies ongoing Boussalem – Algeria) and A4 Tunis – Bizerte","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Tunisia has achieved the highest access rates to water supply and sanitation 
+services in the Middle East and North Africa","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Responsibility for the water supply systems in urban areas and large rural centres is assigned to the Sociéte Nationale d'Exploitation et de Distribution des Eaux
+(SONEDE), a national water supply authority that is an autonomous 
+public entity under the Ministry of Agriculture","Sentiment(polarity=0.12285714285714286, subjectivity=0.23904761904761904)",0.122857143,0.239047619,Tunisia
+"In 1974, ONAS was established to manage the sanitation sector","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+The rate of non-revenue water is the lowest in the region at 21% in 2012,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"According to the CIA, as of 2017, Tunisia has a population of 11,403,800 inhabitants","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"According to CIA The World Factbook, ethnic groups in Tunisia are: Arab 98%, European 1%, Jewish and other 1%","Sentiment(polarity=-0.041666666666666664, subjectivity=0.125)",-0.041666667,0.125,Tunisia
+"According to the 1956 Tunisian census, Tunisia had a population at the time of 3,783,000 residents, of which mainly Berbers and Arabs","Sentiment(polarity=0.16666666666666666, subjectivity=0.3333333333333333)",0.166666667,0.333333333,Tunisia
+Amazighs are concentrated in the Dahar mountains and on the island of Djerba in the south-east and in the Khroumire mountainous region in the north-west,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+An Ottoman influence has been particularly significant in forming the Turco-Tunisian community,"Sentiment(polarity=0.375, subjectivity=0.875)",0.375,0.875,Tunisia
+"From the late 19th century to after World War II, Tunisia was home to large populations of French and Italians (255,000 Europeans in 1956),[158] although nearly all of them, along with the Jewish population, left after Tunisia became independent","Sentiment(polarity=0.002040816326530613, subjectivity=0.22193877551020405)",0.002040816,0.221938776,Tunisia
+The first people known to history in what is now Tunisia were the Berbers,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.333333333,Tunisia
+"After the Reconquista and expulsion of non-Christians and Moriscos from Spain, many Spanish Muslims and Jews also arrived","Sentiment(polarity=0.25, subjectivity=0.25)",0.25,0.25,Tunisia
+"Arabic is the official language, and Tunisian Arabic, known as Tounsi,[161] is the national, vernacular variety of Arabic and is used by the public","Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0,0.066666667,Tunisia
+"French also plays a major role in Tunisian society, despite having no official status","Sentiment(polarity=0.03125, subjectivity=0.25)",0.03125,0.25,Tunisia
+The majority of Tunisia's population (around 98%) are Muslims while about 2% follow Christianity and Judaism or other religions,"Sentiment(polarity=-0.125, subjectivity=0.375)",-0.125,0.375,Tunisia
+"Tunisia has a sizable Christian community of around over 25,000 adherents, mainly Catholics (22,000) and to a lesser degree Protestants","Sentiment(polarity=0.05555555555555555, subjectivity=0.27777777777777773)",0.055555556,0.277777778,Tunisia
+"Djerba, an island in the Gulf of Gabès, is home to El Ghriba synagogue, which is one of the oldest synagogues in the world and the oldest uninterruptedly used","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+The constitution declares Islam as the official state religion and requires the President to be Muslim,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The country has a secular culture where religion is separated from not only political, but in public life","Sentiment(polarity=0.0, subjectivity=0.3888888888888889)",0,0.388888889,Tunisia
+"In 2006, the former Tunisian president declared that he would ""fight"" the hijab, which he refers to as ""ethnic clothing""","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+Individual Tunisians are tolerant of religious freedom and generally do not inquire about a person's personal beliefs,"Sentiment(polarity=-0.006250000000000002, subjectivity=0.3625)",-0.00625,0.3625,Tunisia
+In 2017 a handful of men were arrested for eating in public during Ramadan; they were convicted of committing “a provocative act of public indecency” and sentenced to month-long jail sentences,"Sentiment(polarity=-0.03333333333333333, subjectivity=0.044444444444444446)",-0.033333333,0.044444444,Tunisia
+The total adult literacy rate in 2008 was 78%[184] and this rate goes up to 97,"Sentiment(polarity=0.05, subjectivity=0.525)",0.05,0.525,Tunisia
+"While children generally acquire Tunisian Arabic at home, when they enter school at age 6, they are taught to read and write in Standard Arabic","Sentiment(polarity=0.02500000000000001, subjectivity=0.25)",0.025,0.25,Tunisia
+The four years of secondary education are open to all holders of Diplôme de Fin d'Etudes de l'Enseignement de Base where the students focus on entering university level or join the workforce after completion,"Sentiment(polarity=-0.3666666666666667, subjectivity=0.6)",-0.366666667,0.6,Tunisia
+"In 2010, spending on healthcare accounted for 3","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"The culture of Tunisia is mixed due to its long established history of outside influence from people ‒ such as Phoenicians, Romans, Vandals, Byzantines, Arabs, Turks, Italians, Spaniards, and the French ‒ who all left their mark on the country","Sentiment(polarity=-0.024999999999999998, subjectivity=0.225)",-0.025,0.225,Tunisia
+"The birth of Tunisian contemporary painting is strongly linked to the School of Tunis, established by a group of artists from Tunisia united by the desire to incorporate native themes and rejecting the influence of Orientalist colonial painting","Sentiment(polarity=0.3, subjectivity=0.44999999999999996)",0.3,0.45,Tunisia
+"After independence in 1956, the art movement in Tunisia was propelled by the dynamics of nation building and by artists serving the state","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+There are currently fifty art galleries housing exhibitions of Tunisian and international artists,"Sentiment(polarity=0.0, subjectivity=0.2)",0,0.2,Tunisia
+"A new exposition opened in an old monarchal palace in Bardo dubbed the ""awakening of a nation""","Sentiment(polarity=0.11818181818181818, subjectivity=0.32727272727272727)",0.118181818,0.327272727,Tunisia
+Tunisian literature exists in two forms: Arabic and French,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Among the literary figures include Ali Douagi, who has produced more than 150 radio stories, over 500 poems and folk songs and nearly 15 plays,[194] Khraief Bashir, an Arabic novelist who published many notable books in the 1930s and which caused a scandal because the dialogues were written in Tunisian dialect,[194] and others such as Moncef Ghachem, Mohamed Salah Ben Mrad, or Mahmoud Messadi","Sentiment(polarity=0.2833333333333333, subjectivity=0.4166666666666667)",0.283333333,0.416666667,Tunisia
+"As for poetry, Tunisian poetry typically opts for nonconformity and innovation with poets such as Aboul-Qacem Echebbi","Sentiment(polarity=-0.08333333333333333, subjectivity=0.5)",-0.083333333,0.5,Tunisia
+"As for literature in French, it is characterized by its critical approach","Sentiment(polarity=0.0, subjectivity=0.4)",0,0.4,Tunisia
+"The national bibliography lists 1249 non-school books published in 2002 in Tunisia, with 885 titles in Arabic","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In 2014 Tunisian American creative nonfiction scribe and translator Med-Ali Mekki who wrote many books, not for publication but just for his own private reading translated the new Constitution of the Tunisian Republic from Arabic to English for the first time in Tunisian bibliographical history, the book was published worldwide the following year and it was the Internet's most viewed and downloaded Tunisian book","Sentiment(polarity=0.24863636363636363, subjectivity=0.4262878787878789)",0.248636364,0.426287879,Tunisia
+"At the beginning of the 20th century, musical activity was dominated by the liturgical repertoire associated with different religious brotherhoods and secular repertoire which consisted of instrumental pieces and songs in different Andalusian forms and styles of origins, essentially borrowing characteristics of musical language","Sentiment(polarity=0.0, subjectivity=0.25)",0,0.25,Tunisia
+"Notable Tunisian musicians include Saber Rebaï, Dhafer Youssef, Belgacem Bouguenna, Sonia M'barek, Latifa, Salah El Mahdi, Anouar Brahem, Emel Mathlouthi and Lotfi Bouchnak","Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,Tunisia
+"The TV media has long remained under the domination of the Establishment of the Broadcasting Authority Tunisia (ERTT) and its predecessor, the Tunisian Radio and Television, founded in 1957","Sentiment(polarity=-0.05, subjectivity=0.4)",-0.05,0.4,Tunisia
+"In 2007, some 245 newspapers and magazines (compared to only 91 in 1987) are 90% owned by private groups and independents","Sentiment(polarity=0.0, subjectivity=0.6875)",0,0.6875,Tunisia
+Football is the most popular sport in Tunisia,"Sentiment(polarity=0.55, subjectivity=0.7)",0.55,0.7,Tunisia
+"The premier football league is the ""Tunisian Ligue Professionnelle 1""","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+The Tunisia national handball team has participated in several handball world championships,"Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In recent years, Tunisia's national basketball team has emerged as a top side in Africa","Sentiment(polarity=0.25, subjectivity=0.375)",0.25,0.375,Tunisia
+"In boxing, Victor Perez (""Young"") was world champion in the flyweight weight class in 1931 and 1932","Sentiment(polarity=0.1, subjectivity=0.4)",0.1,0.4,Tunisia
+"In the 2008 Summer Olympics, Tunisian Oussama Mellouli won a gold medal in 1500 meter freestyle","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"In 2012, Tunisia participated for the seventh time in her history in the Summer Paralympic Games","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Tunisia was suspended from Davis Cup play for the year 2014, because the Tunisian Tennis Federation was found to have ordered Malek Jaziri not to compete against an Israeli tennis player, Amir Weintraub","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
+"Coordinates: 34°N 9°E﻿ / ﻿34°N 9°E﻿ / 34; 9
+","Sentiment(polarity=0.0, subjectivity=0.0)",0,0,Tunisia
