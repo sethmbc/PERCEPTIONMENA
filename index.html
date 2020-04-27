@@ -7,9 +7,36 @@
 	<body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/mark.js/7.0.0/jquery.mark.min.js"></script>
-<div class = se>Highlight Search Terms</div>
-<input type="text" value="test">
-<script>$(function() {
+	<div>
+	<button class = "all" style= "float: right">main events</button>
+    <br>
+    <br>
+    <br>
+</div>
+
+  <div class = se>Highlight Search Terms</div>
+  <script>
+$(document).ready(function(){
+  $('#search').keyup(function(){
+ 
+   // Search text
+   var text = $(this).val().toLowerCase();
+ 
+   // Hide all content class element
+   $('.box').hide();
+
+   // Search 
+   $('.box').each(function(){
+ 
+    if($(this).text().toLowerCase().indexOf(""+text+"") != -1 ){
+     $(this).closest('.box').show();
+    }
+  });
+ });
+});
+</script>
+<script>
+$(function() {
   $("input").on("input.highlight", function() {
     // Determine specified search term
     var searchTerm = $(this).val();
@@ -17,17 +44,17 @@
     $(".box").unmark().mark(searchTerm);
   }).trigger("input.highlight").focus();
 });
-
 </script>
-
-	<div>
-	<button class = "all" style= "float: right">main events</button>
-    <br>
-    <br>
-    <br>
-</div>
-	  
-	  <div class="box">
+<style>
+  mark {
+  background: orange;
+  color: black;
+}
+</style>
+       <div>
+  <input type='text' id='search' placeholder='Search Text'>
+ </div>
+<div class="box">
 
 	  <div class="story-body__inner" property="articleBody">
 <div class = sticky>YEMEN</div>
@@ -265,28 +292,13 @@
         </div>
 </div>
                                     
-</div>
-<script>
-$(".all").click(function(){
-  $("p").toggle();
-});
-$(".show").click(function(){
-  $("div").toggle();
-});
-$(".hide").click(function(){
-  $("div").filter(".box").toggle();
-});
-$(".modern").click(function(){
-  $("box").filter(".one").show();
-});
-</script>
-  <style>
+<style>
   div.box{ 
 background-color: #0000; 
 display: inline-block; ;
 font-weight: lighter;
 font-family: "helvetica";
-width: 220px; 
+width: 25%; 
 height: 400px; 
 overflow-x: hidden; 
 overflow-y: auto;
